@@ -1,0 +1,27 @@
+body { background-color: rgb(253, 250, 247);
+ margin: 0;
+ padding: 0;
+border-color: black;
+border-width: 5px;
+border-style: groove;
+}
+
+.imagemtopo {
+
+    width: 100%;
+        display: block;
+}
+
+footer {
+
+    color: aliceblue;
+    background-color: black;
+
+}
+
+.imagemcu {
+
+    width: 100%;
+        display: block;
+        height: 125px;
+}
